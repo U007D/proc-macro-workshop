@@ -1,3 +1,4 @@
+#![allow(unused_macros)]
 // The macro invocation in the previous test case contained an empty loop body
 // inside the braces. In reality we want for the macro to accept arbitrary
 // tokens inside the braces.
